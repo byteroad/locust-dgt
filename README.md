@@ -22,7 +22,7 @@ docker compose up -d
 
 Access the UI at [http://localhost:8089/](http://localhost:8089/) and run your tests.
 
-Some result tests can be found [here](./report_1725036621.259672.html). You can preview it [here](https://doublebyte1.github.io/locust/report_1725036621.259672.html).
+Some result tests can be found [here](./report_1725036621.259672.html). You can preview them [here](https://doublebyte1.github.io/locust/report_1725036621.259672.html).
 
 ## License
 
