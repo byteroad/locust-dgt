@@ -22,6 +22,8 @@ docker compose up -d
 
 Access the UI at [http://localhost:8089/](http://localhost:8089/) and run your tests.
 
+Some result tests can be found [here](./report_1725036621.259672.html)
+
 ## License
 
 This project is released under an [MIT License](./LICENSE)
