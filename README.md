@@ -20,6 +20,12 @@ Or, if you want to run it in the background
 docker compose up -d
 ```
 
+If you want to scale the number of workers:
+
+```
+docker-compose up --scale worker=4
+```
+
 Access the UI at [http://localhost:8089/](http://localhost:8089/) and run your tests.
 
 Some result tests can be found [here](./report_1725036621.259672.html). You can preview them [here](https://doublebyte1.github.io/locust/report_1725036621.259672.html).
